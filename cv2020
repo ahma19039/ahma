@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>CV Saya</title>
+	</head>
+	<body>
+	    <h1 align="center">Curriculum Vitae</h1>
+	    <hr />
+	    <h2>Biodata </h2>
+	    <ol>
+	        <li>Name        : Ahmad Farisy</li>
+	        <li>Domisili    : Depok, Jabar</li>
+	        <li>Email       : far.isy@outlook.com</li>
+	        <li>Socmed      : @ahma19039 (twitter) @farisy7857 (instagram) </li>
+	    </ol>
+	    <h3>Ability</h3>
+	    <ol>
+	        <li>Network Routing - Switching</li>
+	        <li>Network Security</li>
+	        <li>Server sysadmin</li>
+	        <li>IT Service Management</li>
+
+	    </ol>
+	    <hr />
+	    
+		
+	</body>
+</html>
